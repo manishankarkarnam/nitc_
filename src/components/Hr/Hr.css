@@ -1,0 +1,8 @@
+.hr{
+    background-color: blueviolet;
+    height: 3.5px;
+    width: 600px;
+    border-radius: 25px;
+    margin-bottom: 25px;
+    margin-top: 40px;
+}

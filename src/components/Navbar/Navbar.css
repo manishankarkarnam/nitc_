@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+.Navbar{
+    background-color: rgb(51, 48, 48);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    background-color: transparent;
+}
+
+.list li{
+    color: white;
+    margin: 0px 15px;
+    font-family: "Outfit", sans-serif;
+    cursor: pointer;
+}
+ 
+.list{
+    list-style-type: none;
+    display: flex;
+    margin-right: 95px;
+    margin-bottom: -6px;
+}
+
+.logo{
+    width: 200px;
+    margin: 25px;
+    margin-left: 60px;
+    cursor: pointer;
+}
+
+.contactButton{
+    background-color: white;
+    padding: 10px 14px;
+    border-radius: 25px;
+    cursor: pointer;
+    border: 0px;
+    outline: 0px;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: -8px;
+}
+
+.scrolled {
+    background-color: rgb(66, 66, 179);
+    transition: 0.8s;
+    opacity: 0.9;
+}

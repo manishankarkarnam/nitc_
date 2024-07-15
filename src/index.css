@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.mainBlock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

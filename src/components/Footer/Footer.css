@@ -1,0 +1,30 @@
+.footer{
+    width: 82%;
+    font-family: "Outfit", sans-serif;
+    margin-bottom: 50px;
+}
+
+.footer hr{
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+.footerInfo{
+    display: flex;
+    justify-content: center;
+    gap: 720px;
+}
+
+.footerInfo div h3{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.rightside *, .leftside *{
+    margin: 0;
+}
+
+.rightside{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,53 @@
+.About{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    justify-content:space-evenly;
+    margin: 130px auto 30px auto;
+}
+
+.leftBox{
+    flex-basis: 33%;
+    position: relative;
+}
+
+.aboutImg{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.playIcon{
+    width: 90px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+}
+
+.rightBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis: 50%;
+    gap: 14px;
+    font-family: "Outfit", sans-serif;
+}
+
+.rightBox h3{
+    color: rgb(82, 82, 214);
+    margin: 0;
+}
+
+.rightBox h1{
+    color: rgb(48, 48, 101);
+    max-width: 400px;
+    margin: 0;
+}
+
+.rightBox p{
+    max-width: 680px;
+    margin: 0;
+    font-size: 15px;
+}

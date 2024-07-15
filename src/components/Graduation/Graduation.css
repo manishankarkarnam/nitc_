@@ -1,0 +1,43 @@
+.program img{
+    height: 350px;
+    width: max-content;
+    border-radius: 12px;
+}
+
+.graduation{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 30px auto;
+}
+
+.caption img{
+    width: 80px;
+    height: max-content;
+
+}
+
+.caption p{
+    color: white;
+}
+
+.caption{
+    height: 350px;
+    position: relative;
+    top: -354px;
+    bottom: -354px;
+    background-color: rgb(61, 84, 126);
+    opacity: 0;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: -354px;
+}
+
+.caption:hover{
+    transition: 0.4s;
+    opacity: 0.7;
+}

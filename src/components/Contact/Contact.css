@@ -1,0 +1,111 @@
+.contact{
+    width: 82%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Outfit", sans-serif;
+    margin-bottom: 50px;
+    gap: 120px;
+}
+
+.contactInfo{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 36%;
+    background: rgba(129, 170, 195, 0.1);
+    padding: 30px;
+    height: max-content;
+    border-radius: 15px;
+}
+
+.contactInfo *{
+    margin: 10px 0px;
+}
+
+.contactInfo h2 img{
+    width: 45px;
+}
+
+.location{
+    display: flex;
+}
+
+.contactInfo h3 img, .location img{
+    width: 25px;
+    height: max-content;
+}
+
+.contactInfo h3, .location h3{
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.contactInfo h3 img, .location img, .contactInfo h2 img{
+    margin-bottom: -5px;
+    margin-right: 10px;
+}
+
+.userInfo{
+    flex-basis: 36%;
+}
+
+.userInfo form{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 0px;
+
+}
+
+.userInfo form *{
+    margin: 5px 3px;
+}
+
+.userInfo form input, .userInfo form textarea, .userInfo form button{
+    border: 0px;
+    outline: 0px;
+}
+
+.userInfo form input, .userInfo form textarea{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgba(129, 170, 195, 0.1);
+}
+
+.userInfo form input:hover, .userInfo form textarea:hover{
+    transform: scale(1.03);
+    transform-origin: center;
+}
+
+.userInfo form h3{
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 0px;
+    margin-top: 13px;
+}
+
+.userInfo form button{
+    max-width: max-content;
+    font-size: 15px;
+    padding: 12px 17px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgb(119, 119, 246);
+    margin-top: 15px;
+    color: white;
+    font-weight: 400;
+    align-self: center;
+}
+
+.userInfo form button:hover{
+    background-color: rgb(100, 100, 244);
+    transform: scale(1.02);
+    transform-origin: center;
+}
+
+.userInfo span{
+    margin-left: 45px;
+    margin-top: -5px;
+}
