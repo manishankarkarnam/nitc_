@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nitc_/static/css/main.c46ad354.css",
+    "main.js": "/nitc_/static/js/main.0325b38d.js",
+    "static/media/sample-video.mp4": "/nitc_/static/media/sample-video.9f679af6c35a8e1065bb.mp4",
+    "static/media/program-3.png": "/nitc_/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-1.png": "/nitc_/static/media/program-1.a77b437944c963838cea.png",
+    "static/media/program-2.png": "/nitc_/static/media/program-2.72b615ee1f3e9b493416.png",
+    "static/media/about.png": "/nitc_/static/media/about.4398a22d251f79cd3b98.png",
+    "static/media/logo.png": "/nitc_/static/media/logo.01161bf8436ca103dc3e.png",
+    "static/media/hero.jpg": "/nitc_/static/media/hero.a245aa04fc145e0e39b3.jpg",
+    "static/media/gallery-3.png": "/nitc_/static/media/gallery-3.3e6b0002044366afe9ec.png",
+    "static/media/gallery-2.jpg": "/nitc_/static/media/gallery-2.234b4170a7d5072543cf.jpg",
+    "static/media/gallery-1.jpg": "/nitc_/static/media/gallery-1.9bb2fdd53ed0407139ec.jpg",
+    "static/media/user-2.png": "/nitc_/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/nitc_/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/gallery-4.jpeg": "/nitc_/static/media/gallery-4.56c5007cff3e0d5bd5bc.jpeg",
+    "static/media/user-4.png": "/nitc_/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/nitc_/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/nitc_/index.html",
+    "main.c46ad354.css.map": "/nitc_/static/css/main.c46ad354.css.map",
+    "main.0325b38d.js.map": "/nitc_/static/js/main.0325b38d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c46ad354.css",
+    "static/js/main.0325b38d.js"
+  ]
+}
