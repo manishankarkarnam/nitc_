@@ -27,10 +27,11 @@
 }
 
 .logo{
-    width: 200px;
     margin: 25px;
     margin-left: 60px;
     cursor: pointer;
+    color: white;
+    font-family: "Outfit", sans-serif;
 }
 
 .contactButton{
@@ -50,4 +51,11 @@
     background-color: rgb(66, 66, 179);
     transition: 0.8s;
     opacity: 0.9;
+}
+
+.logo_{
+    width: 37px;
+    margin-bottom: -8px;
+    margin-right: 8px;
+    border-radius: 5px;
 }

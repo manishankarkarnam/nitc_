@@ -1,8 +1,8 @@
 import React from 'react'
-import Gallery1 from '../../assets/gallery-1.png'
-import Gallery2 from '../../assets/gallery-2.png'
+import Gallery1 from '../../assets/gallery-1.jpg'
+import Gallery2 from '../../assets/gallery-2.jpg'
 import Gallery3 from '../../assets/gallery-3.png'
-import Gallery4 from '../../assets/gallery-4.png'
+import Gallery4 from '../../assets/gallery-4.jpeg'
 import WhiteArrow from '../../assets/white-arrow.png'
 import './Gallery.css'
 

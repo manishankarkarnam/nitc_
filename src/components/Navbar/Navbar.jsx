@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react'
-import logo from '../../assets/logo.png'
 import './Navbar.css'
+import logo from '../../assets/logo.png'
 import { Link } from 'react-scroll';
 
 
@@ -27,7 +27,7 @@ const Navbar = () => {
   return (
         <div className='container Navbar' id='navbar'>
             <div>
-                <Link to="hero" spy={true} smooth={true} offset={0} duration={500}><img src={logo} alt="logo" className='logo'/></Link>
+                <Link to="hero" spy={true} smooth={true} offset={0} duration={500}><h1 className='logo'><img src={logo} alt="logo" className='logo_'/>NIT CALICUT</h1></Link>
             </div>
                 <ul className='list'>
                     <li><Link to="hero" spy={true} smooth={true} offset={0} duration={500} >Home</Link></li>
